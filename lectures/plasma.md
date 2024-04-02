@@ -113,8 +113,7 @@ the electrons.
 
 
 ![Plasma Cartoon](Figures/Plasma.png){:class="img-responsive":height="200px" width="200px"}]
-
-If that link is broken click [here.](Figures/plasma.png)
+![Plasma Cartoon](Figures/Plasma.png)
 
 You can see why I call this a conductor, right?  The electrons are free!
 
@@ -189,7 +188,7 @@ and length $$vdt$$ (the distance the electron can travel in a time $$dt$$.
 The amount of charge in the rectangular box is $$dQ$$.
 
 ![How to relate current density to velocity](Figures/CurrentRectangle.png){:class="img-responsive":height="200px" width="200px"}]
-If that link is broken click [here.](Figures/CurrentRectangle.png)
+![How to relate current density to velocity](Figures/CurrentRectangle.png)
 
 <img align="left" src="Figures/CurrentRectangle.png" width="200" > ![](CurrentRectangle.png) 
 
