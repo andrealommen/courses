@@ -20,4 +20,4 @@ permalink: /Grid/
 | April 8, 2022     | Parts of Chapters 8 and 9, See Assignment for which parts,  Poynting Vector, Energy and Momentum in EM fields, Transmission and Reflection Coefficients,  Dispersion, Diffuse Plasmas.       | <a href='/PHY309/assignments/hw11' >Assignment \#11 |
 | April 15, 2022    | Chapter 10: See Assignment for which parts to read | <a href='/PHY309/assignments/hw12' >Assignment \#12 | 
 | April 22, 2022    | Chapter 11: See Assignment for which parts to read | <a href='/PHY309/assignments/hw13' >Assignment \#13 |  
-| April 29, 2022    | Chapter 12: (Sections to be determined.  Not the whole thing.)| <a href='/PHY309/assignments/hw14' >Assignment \#14 |
+| April 29, 2022    | Chapter 12: See Assignment for which parts to read | <a href='/PHY309/assignments/hw14' >Assignment \#14 |
